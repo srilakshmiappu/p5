@@ -1,6 +1,6 @@
 y=input()
 d=input()
 if(d==365):
- print("yes")
+ print("No")
 else:
- print("no")
+ print("Yes")
